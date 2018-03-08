@@ -1,5 +1,5 @@
 NAME=gawk
-VERSION=4.2.0
-REVISION=3
-SRC=http://ftp.gnu.org/gnu/gawk/gawk-4.2.0.tar.xz
-SRCMD5=f26c469addc67d88034b01b62ebab284
+VERSION=4.2.1
+REVISION=4
+SRC=http://ftp.gnu.org/gnu/gawk/gawk-4.2.1.tar.xz
+SRCMD5=95cf553f50ec9f386b5dfcd67f30180a
