@@ -3,3 +3,5 @@ VERSION=4.2.1
 REVISION=1
 SRC=http://ftp.gnu.org/gnu/gawk/gawk-4.2.1.tar.xz
 SRCMD5=95cf553f50ec9f386b5dfcd67f30180a
+OPTIONS=toolchain|bootstrap|release (docs)
+DEFAULTS=release docs
